@@ -10,3 +10,4 @@ Transaction status: Transfer table/ Transfer History which records all the trans
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 Tap here to get a quick preview of my Project-
+https://nandanakb11.github.io/Task--1-Basic-Banking-System/
